@@ -1,7 +1,28 @@
 Fashion Project
 ==============================
 
-Exploring fashion recommendation
+Exploring fashion recommendation and deep learning with Thomas Ulseth
+
+## Report
+
+Can be found in the reports folder.
+
+## Notebooks
+
+Notebooks are found in the notebook folder:
+
+- Outfit Recommendation (ChatGPT)
+
+On kaggle:
+
+H&M Fashion Competition
+- [Exploring H&M Fashion Competition part 1]()
+- [Exploring H&M Fashion Competition part 2]()
+
+Shopee Price Match Competition
+- [Shopee Price Match Adventure part 1]()
+- [Shopee Price Match Adventure part 2]()
+- [Shopee Price Match Adventure part 3]()
 
 Project Organization
 ------------
