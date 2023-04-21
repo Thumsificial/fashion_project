@@ -31,7 +31,7 @@ H&M Fashion Competition
 Shopee Price Match Competition
 - [Shopee Price Match Adventure part 1](https://www.kaggle.com/code/thomasulseth/shopee-price-match-adventure/notebook)
 - [Shopee Price Match Adventure part 2](https://www.kaggle.com/code/thomasulseth/shopee-price-match-adventure-part-2/notebook)
-- [Shopee Price Match Adventure part 3]()
+- [Shopee Price Match Adventure part 3](https://www.kaggle.com/code/thomasulseth/shopee-price-match-adventure-part-3)
 
 ## References
 
