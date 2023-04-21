@@ -8,4 +8,4 @@ Also the chatgpt outfit recommender I wanted to do more with, like creating a ni
 
 However I am left with a new sense of interest in the field of deep learning and fashion, and there seems to be a lot of very relevant areas to explore here, both with recommendation based on style and also the AR aspect that I discovered during the discovery phase.
 
-I also feel like I have learned a lot about working with different types of data, adn even if I struggled, it ended up being a fun adventure.
+I also feel like I have learned a lot about working with different types of data, and even if I struggled with some things, it ended up being a fun adventure.
